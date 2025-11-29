@@ -6,7 +6,7 @@ This repository contains three small but practical Python automation demos:
 - Excel Automation Demo
 - API Integration Demo
 
-They are designed as portfolio pieces for freelance work (Fiverr / Upwork) and can be easily customized for real clients.
+
 
 
 ## 1. Web Scraping Demo
