@@ -68,7 +68,8 @@ Saves it to api_report.txt
 
 How to run
 
-```cd api_integration_demo
+```
+cd api_integration_demo
 python api_report.py
 ```
 
