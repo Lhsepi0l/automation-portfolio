@@ -49,7 +49,7 @@ Output file name: excel_report_YYYYMMDD.xlsx
 How to run
 
 ```bashcd
-excel_automation_demo
+cd excel_automation_demo
 python excel_auto.py
 ```
 
