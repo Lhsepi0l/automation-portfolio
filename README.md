@@ -27,7 +27,7 @@ cd web_scraping_demo
 python scrape.py
 ```
 
-2. Excel Automation Demo
+## 2. Excel Automation Demo
 
 Folder: excel_automation_demo/
 Script: excel_auto.py
@@ -48,11 +48,12 @@ Output file name: excel_report_YYYYMMDD.xlsx
 
 How to run
 
-cd excel_automation_demo
+```bashcd
+excel_automation_demo
 python excel_auto.py
+```
 
-
-3. API Integration Demo
+## 3. API Integration Demo
 
 Folder: api_integration_demo/
 Script: api_report.py
@@ -67,8 +68,9 @@ Saves it to api_report.txt
 
 How to run
 
-cd api_integration_demo
+```cd api_integration_demo
 python api_report.py
+```
 
 Installation
 
